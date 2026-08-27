@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "nyt-auto-redeem@brianhibberd.development": {
+      "updates": [
+        {
+          "version": "1.6",
+          "update_link": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/nyt-extension-updates/main/NYT_redeemer.xpi"
+        }
+      ]
+    }
+  }
+}
