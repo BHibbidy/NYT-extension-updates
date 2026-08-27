@@ -3,7 +3,7 @@
     "nyt-auto-redeem@brianhibberd.development": {
       "updates": [
         {
-          "version": "1.6",
+          "version": "1.7",
           "update_link": "https://raw.githubusercontent.com/BHibbidy/NYT-extension-updates/main/NYT_redeemer.xpi"
         }
       ]
